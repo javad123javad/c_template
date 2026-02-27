@@ -1,6 +1,0 @@
-/home/javad/workspace/c_codes/c_template/build/CMakeFiles/c_template_lib.dir
-/home/javad/workspace/c_codes/c_template/build/CMakeFiles/c_template.dir
-/home/javad/workspace/c_codes/c_template/build/CMakeFiles/c_template_test.dir
-/home/javad/workspace/c_codes/c_template/build/CMakeFiles/test.dir
-/home/javad/workspace/c_codes/c_template/build/CMakeFiles/edit_cache.dir
-/home/javad/workspace/c_codes/c_template/build/CMakeFiles/rebuild_cache.dir
