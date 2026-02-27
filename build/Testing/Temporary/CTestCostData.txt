@@ -1,0 +1,4 @@
+c_template_test 1 0.0047243
+add_test 5 0.00434477
+integration_test 5 0.00742742
+---

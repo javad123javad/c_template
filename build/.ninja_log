@@ -1,0 +1,13 @@
+# ninja log v5
+121	210	1772217597956058722	c_template	933848db9212592a
+1	108	1772217597853566796	CMakeFiles/c_template.dir/src/main.c.o	9d6c389faf4cf704
+1	63	1772217597806565277	CMakeFiles/c_template_lib.dir/src/c_template.c.o	fe43cb298da70166
+64	120	1772217597868567281	libc_template_lib.a	769b8936b9244d13
+4	142	1772217597885567831	CMakeFiles/c_template_test.dir/tests/test_add.c.o	ddcc7f627dd7f3a5
+145	206	1772217597953735938	c_template_test	cd68d5de1a0c1ab8
+2	51	1772217661304609995	CMakeFiles/c_template_lib.dir/src/c_template.c.o	fe43cb298da70166
+2	69	1772217661323610605	CMakeFiles/c_template.dir/src/main.c.o	9d6c389faf4cf704
+5	73	1772217661323610605	CMakeFiles/c_template_test.dir/tests/test_add.c.o	ddcc7f627dd7f3a5
+51	86	1772217661341611182	libc_template_lib.a	769b8936b9244d13
+87	205	1772217661458706658	c_template_test	cd68d5de1a0c1ab8
+86	210	1772217661460219076	c_template	933848db9212592a
